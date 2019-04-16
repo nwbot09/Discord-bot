@@ -1,1 +1,1 @@
-  web: node nqm index.js
+  web: node index.js
